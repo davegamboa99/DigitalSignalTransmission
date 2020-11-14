@@ -1,0 +1,10 @@
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.csprojAssemblyReference.cache
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.Form1.resources
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.Properties.Resources.resources
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.csproj.GenerateResource.cache
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.csproj.CoreCompileInputs.cache
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\bin\Debug\GamboaDigitalSignal.exe.config
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\bin\Debug\GamboaDigitalSignal.exe
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\bin\Debug\GamboaDigitalSignal.pdb
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.exe
+C:\Users\DaveG\source\repos\GamboaDigitalSignal\GamboaDigitalSignal\obj\Debug\GamboaDigitalSignal.pdb
